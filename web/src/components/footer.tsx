@@ -18,7 +18,7 @@ export function Foot() {
             </p>
             <div className="flex space-x-4">
               <Link
-                href="https://github.com/abhinav2805-ux?tab=repositories"
+                href="https://github.com/abhinav2805-ux/GalaxyAi-assignment-ReelNova"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-violet-100 dark:bg-violet-900/30 text-violet-700 dark:text-violet-300 p-2 rounded-full hover:bg-violet-200 dark:hover:bg-violet-800/50 transition-colors"

@@ -3,9 +3,7 @@
 
 A full-stack Next.js application that enables users to transform videos using the **Hunyuan-Video Model (via Fal API)**. Built with modern tools like Clerk for authentication, ShadCN / V0 for UI/UX, MongoDB for history tracking, Uploadcare + Cloudinary for uploads and NGORK for local webhook testing.
 
-
-## 📽️Youtube Demo URL : 
-## 🔗Deployed Link : 
+## 🔗Deployed Link : https://galaxy-ai-assignment-reel-nova.vercel.app/
 
 ---
 

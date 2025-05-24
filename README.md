@@ -66,8 +66,8 @@ A full-stack Next.js application that enables users to transform videos using th
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/abhinav2805-ux/GalaxyAi-assignment-ReelNova
+cd GalaxyAi-assignment-ReelNova
 ```
 
 ### 2. Install Dependencies

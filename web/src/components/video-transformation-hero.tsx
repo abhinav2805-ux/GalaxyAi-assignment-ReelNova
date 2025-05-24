@@ -24,7 +24,7 @@ export default function ReelNovaationHero() {
      
       <div className="flex-1 w-full max-w-xl">
         <div className="relative bg-background rounded-xl overflow-hidden shadow-lg p-4">
-          {/* Video Preview */}
+          
           <div className="relative aspect-video mb-4">
             {isPlaying ? (
               <div className="absolute inset-0 flex items-center justify-center text-primary">
@@ -32,15 +32,14 @@ export default function ReelNovaationHero() {
               </div>
             ) : (
               <TransformationExample
-                title="Cinematic Style"
-                description="A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a dark blue leather jacket, a long pink dress, and bright yellow boots, and carries a black purse."
+                title=""
+                description=""
                 beforeSrc="https://storage.googleapis.com/falserverless/hunyuan_video/hunyuan_v2v_input.mp4"
                 afterSrc="https://v3.fal.media/files/kangaroo/y5-1YTGpun17eSeggZMzX_video-1733468228.mp4"
               />
             )}
           </div>
 
-          {/* Text Below Video */}
           
         </div>
       </div>
